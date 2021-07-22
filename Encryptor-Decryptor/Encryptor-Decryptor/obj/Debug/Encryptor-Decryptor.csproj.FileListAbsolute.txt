@@ -1,0 +1,10 @@
+C:\Users\angelica\source\repos\Encryptor-Decryptor\Encryptor-Decryptor\bin\Debug\Encryptor-Decryptor.exe.config
+C:\Users\angelica\source\repos\Encryptor-Decryptor\Encryptor-Decryptor\bin\Debug\Encryptor-Decryptor.exe
+C:\Users\angelica\source\repos\Encryptor-Decryptor\Encryptor-Decryptor\bin\Debug\Encryptor-Decryptor.pdb
+C:\Users\angelica\source\repos\Encryptor-Decryptor\Encryptor-Decryptor\obj\Debug\Encryptor-Decryptor.csproj.AssemblyReference.cache
+C:\Users\angelica\source\repos\Encryptor-Decryptor\Encryptor-Decryptor\obj\Debug\Encryptor_Decryptor.EncryptDecrypt.resources
+C:\Users\angelica\source\repos\Encryptor-Decryptor\Encryptor-Decryptor\obj\Debug\Encryptor_Decryptor.Properties.Resources.resources
+C:\Users\angelica\source\repos\Encryptor-Decryptor\Encryptor-Decryptor\obj\Debug\Encryptor-Decryptor.csproj.GenerateResource.cache
+C:\Users\angelica\source\repos\Encryptor-Decryptor\Encryptor-Decryptor\obj\Debug\Encryptor-Decryptor.csproj.CoreCompileInputs.cache
+C:\Users\angelica\source\repos\Encryptor-Decryptor\Encryptor-Decryptor\obj\Debug\Encryptor-Decryptor.exe
+C:\Users\angelica\source\repos\Encryptor-Decryptor\Encryptor-Decryptor\obj\Debug\Encryptor-Decryptor.pdb
